@@ -1,0 +1,4 @@
+name: FelarmoniaWhitelist
+version: '1.0'
+main: online.slavok.felarmoniaWhitelist.FelarmoniaWhitelist
+api-version: '1.21'
